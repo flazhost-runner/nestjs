@@ -1,0 +1,11 @@
+{
+  "name": "NestJS",
+  "language": "typescript",
+  "install": [
+    "npm install"
+  ],
+  "migrate": [],
+  "start": "PORT=3000 npm run start:dev",
+  "url": "http://localhost:3000",
+  "readyPath": "/"
+}
